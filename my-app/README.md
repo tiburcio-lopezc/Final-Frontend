@@ -1,4 +1,4 @@
-React Project made with bulma. 
+React Project made with bulma css framework. 
 
 It's a CRUD app for a grocery's store. This is a project for Universidad del Norte Santo Tomas de Aquino, Tucuman.
 Teacher: Eng. Marcos Rivero.
