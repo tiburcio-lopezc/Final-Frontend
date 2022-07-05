@@ -1,0 +1,76 @@
+{
+  "Productos": [
+    {
+      "id": "64164bac-2df3-4c6d-bbbe-55d6e29573cd",
+      "rubro": "Enlatados",
+      "fecha": "5/7/2022",
+      "nombreProducto": "aa",
+      "cantidad": "1",
+      "precioUnitario": "24",
+      "precioTotal": 24
+    },
+    {
+      "id": "1c32205f-403e-4979-94fb-58b60a8a0459",
+      "rubro": "Descartables",
+      "fecha": "5/7/2022",
+      "nombreProducto": "aa",
+      "cantidad": "1",
+      "precioUnitario": "1",
+      "precioTotal": 1
+    },
+    {
+      "id": "8c08d64e-d53c-46c0-8f5f-cc67f2dc64a4",
+      "rubro": "Fiambres",
+      "fecha": "5/7/2022",
+      "nombreProducto": "www",
+      "cantidad": "1",
+      "precioUnitario": "22",
+      "precioTotal": 22
+    },
+    {
+      "id": "6c7cbdc2-f98e-45ea-8889-a876558d7bd2",
+      "rubro": "Bebidas",
+      "fecha": "5/7/2022",
+      "nombreProducto": "banana",
+      "cantidad": "23",
+      "precioUnitario": "24",
+      "precioTotal": 552
+    },
+    {
+      "id": "cc2d177d-1e84-45ef-bf4a-35602738d856",
+      "rubro": "Enlatados",
+      "fecha": "5/7/2022",
+      "nombreProducto": "Cervezas",
+      "cantidad": "123",
+      "precioUnitario": "24",
+      "precioTotal": 2952
+    },
+    {
+      "id": "4214fd3e-b424-4f8a-bb48-5af9501f8665",
+      "rubro": "Comestibles",
+      "fecha": "5/7/2022",
+      "nombreProducto": "www",
+      "cantidad": "1",
+      "precioUnitario": "24",
+      "precioTotal": 24
+    },
+    {
+      "id": "7576d2e2-ce32-451b-b1f1-3aa82d6c71c3",
+      "rubro": "Enlatados",
+      "fecha": "5/7/2022",
+      "nombreProducto": "atun",
+      "cantidad": "12",
+      "precioUnitario": "1",
+      "precioTotal": 12
+    },
+    {
+      "id": "ef5336a2-d86d-4737-90cd-a8b2748bd59c",
+      "rubro": "Bebidas",
+      "fecha": "5/7/2022",
+      "nombreProducto": "banana",
+      "cantidad": "23",
+      "precioUnitario": "1",
+      "precioTotal": 23
+    }
+  ]
+}

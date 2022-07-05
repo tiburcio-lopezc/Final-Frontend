@@ -21,7 +21,7 @@ export default function Formulario({agregaProducto,itemEdicion,editaProducto}){
  const manejaNuevoProducto=(e)=>{ setProducto({...producto,[e.target.name]:e.target.value})}
                         
 //naejador de el evento que envia el producto moficado o el nuevo producto
- const manejaOnSubmit=(e)=>{ console.log(auxItemEdicion)
+ const manejaOnSubmit=(e)=>{ 
      e.preventDefault();
     if (producto.nombreProducto && producto.cantidad && producto.precioUnitario && producto.rubro){
         //controlo que ningun dato este vacio
@@ -58,6 +58,9 @@ const manejaControlNumerico=(e)=>{ if( isNaN(e.target.value)) {
 
                                                             }else manejaNuevoProducto(e);};
                                 
+
+
+                                                            
 
 
                   

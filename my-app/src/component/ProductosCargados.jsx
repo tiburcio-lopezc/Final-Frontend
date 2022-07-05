@@ -10,15 +10,13 @@ export default function ProductosCargados ({datos,eliminarProducto, ProductoAEdi
   useEffect(()=>{isSelect===""? setDescativaBoton(false):setDescativaBoton(true)},[isSelect])
   
   let total=0;
-  
   datos.forEach(element => {total+=Number(element.precioTotal)});
+  
   const rowEdit=(producto)=>{setIsSelect(producto.id);ProductoAEditar(producto); setDescativaBoton(true)}
   
   
-  
-  
   return(
-<div className="container is-max-desktop">
+<div className="container is-max-desktop" >
     <table className="table is-fullwidth">
       
       <thead>
@@ -35,7 +33,7 @@ export default function ProductosCargados ({datos,eliminarProducto, ProductoAEdi
     
       </thead> 
      
-      <tbody>
+      <tbody className="" style={{overflow:"auto"}}>
         { 
          datos.length>0 ?
               datos.map((producto)=> 
@@ -82,8 +80,8 @@ export default function ProductosCargados ({datos,eliminarProducto, ProductoAEdi
           <th></th>
           <th><abbr className="subtitle is-6" style={{textDecoration:"none"}} title=""></abbr></th>
           <th><abbr className="subtitle is-6" style={{textDecoration:"none"}} title=""></abbr></th>
-          <th><abbr className="subtitle is-6 has-text-weight-bold" style={{textDecoration:"none"}}>Total: $ {total}</abbr></th>
-          <th><abbr className="subtitle is-6" style={{textDecoration:"none"}} title> </abbr></th>
+          <th><abbr className="subtitle is-6 " style={{textDecoration:"none"}}></abbr></th>
+          <th><abbr className="subtitle is-6 has-text-weight-bold" style={{textDecoration:"none"}} title> Total: $ {total} </abbr></th>
         </tr>
       </tfoot>
      

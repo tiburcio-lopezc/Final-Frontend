@@ -13,7 +13,7 @@ class HeaderComponent extends Component {
         return (
             <div>
                 <header>
-                    <section class="hero is-normal is-primary">
+                    <section class="hero is-normal is-primary" style={{marginBottom:"100px"}}>
                         <div class="hero-body is-fullwidth">
                             <p class="title">
                             CRUD APP
