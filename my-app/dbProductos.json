@@ -1,76 +1,58 @@
 {
   "Productos": [
     {
-      "id": "64164bac-2df3-4c6d-bbbe-55d6e29573cd",
+      "id": "eeb7884d-f5ef-4f10-b048-0da9329e599a",
       "rubro": "Enlatados",
       "fecha": "5/7/2022",
-      "nombreProducto": "aa",
-      "cantidad": "1",
-      "precioUnitario": "24",
-      "precioTotal": 24
+      "nombreProducto": "Atun",
+      "cantidad": "100",
+      "precioUnitario": "60",
+      "precioTotal": 6000
     },
     {
-      "id": "1c32205f-403e-4979-94fb-58b60a8a0459",
-      "rubro": "Descartables",
-      "fecha": "5/7/2022",
-      "nombreProducto": "aa",
-      "cantidad": "1",
-      "precioUnitario": "1",
-      "precioTotal": 1
-    },
-    {
-      "id": "8c08d64e-d53c-46c0-8f5f-cc67f2dc64a4",
-      "rubro": "Fiambres",
-      "fecha": "5/7/2022",
-      "nombreProducto": "www",
-      "cantidad": "1",
-      "precioUnitario": "22",
-      "precioTotal": 22
-    },
-    {
-      "id": "6c7cbdc2-f98e-45ea-8889-a876558d7bd2",
+      "id": "a9f9fa95-c064-4a94-8ee3-1a0973fa9669",
       "rubro": "Bebidas",
-      "fecha": "5/7/2022",
-      "nombreProducto": "banana",
-      "cantidad": "23",
-      "precioUnitario": "24",
-      "precioTotal": 552
-    },
-    {
-      "id": "cc2d177d-1e84-45ef-bf4a-35602738d856",
-      "rubro": "Enlatados",
       "fecha": "5/7/2022",
       "nombreProducto": "Cervezas",
+      "cantidad": "200",
+      "precioUnitario": "10",
+      "precioTotal": 2000
+    },
+    {
+      "id": "dce766d3-ce52-4a4e-8501-7f284f690a5d",
+      "rubro": "Descartables",
+      "fecha": "5/7/2022",
+      "nombreProducto": "Escobas",
+      "cantidad": "100",
+      "precioUnitario": "40",
+      "precioTotal": 4000
+    },
+    {
+      "id": "7fa5a2a1-68a7-4a1b-9478-5cedc91566ef",
+      "rubro": "Fiambres",
+      "fecha": "5/7/2022",
+      "nombreProducto": "Salame",
+      "cantidad": "3",
+      "precioUnitario": "100",
+      "precioTotal": 300
+    },
+    {
+      "id": "7b52990b-87a9-48cd-b9ac-285ad25221cf",
+      "rubro": "Limpieza",
+      "fecha": "5/7/2022",
+      "nombreProducto": "Trapo",
       "cantidad": "123",
-      "precioUnitario": "24",
-      "precioTotal": 2952
+      "precioUnitario": "20",
+      "precioTotal": 2460
     },
     {
-      "id": "4214fd3e-b424-4f8a-bb48-5af9501f8665",
-      "rubro": "Comestibles",
+      "id": "699e121e-a82b-4f65-8c64-ba291f507cea",
+      "rubro": "Descartables",
       "fecha": "5/7/2022",
-      "nombreProducto": "www",
-      "cantidad": "1",
-      "precioUnitario": "24",
-      "precioTotal": 24
-    },
-    {
-      "id": "7576d2e2-ce32-451b-b1f1-3aa82d6c71c3",
-      "rubro": "Enlatados",
-      "fecha": "5/7/2022",
-      "nombreProducto": "atun",
-      "cantidad": "12",
-      "precioUnitario": "1",
-      "precioTotal": 12
-    },
-    {
-      "id": "ef5336a2-d86d-4737-90cd-a8b2748bd59c",
-      "rubro": "Bebidas",
-      "fecha": "5/7/2022",
-      "nombreProducto": "banana",
-      "cantidad": "23",
-      "precioUnitario": "1",
-      "precioTotal": 23
+      "nombreProducto": "Vaso",
+      "cantidad": "10",
+      "precioUnitario": "100",
+      "precioTotal": 1000
     }
   ]
 }

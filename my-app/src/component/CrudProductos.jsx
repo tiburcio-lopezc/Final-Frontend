@@ -3,7 +3,7 @@ import { useState, useEffect, useSyncExternalStore } from "react"
 import Formulario from './Formulario';
 import ProductosCargados from './ProductosCargados';
 import { v4 as uuidv4 } from 'uuid';
-import FooterComponent from "./FooterComponent";
+
 
 export default function CrudProductos() {
 

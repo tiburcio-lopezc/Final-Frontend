@@ -14,19 +14,21 @@ function App() {
   <div className='container  max-width'>
         
     <div className="App">
-     
-          <HeaderComponent/>
-
+         
       <header className="App-header" >
-             
+        <div style={{width:"100vw"}}>
+               <HeaderComponent/>
+         </div>
+         
          <div >
-   
              <CrudApi/>
          </div>
+          <div style={{width:"100vw"}}>
+        <FooterComponent/>
+      </div>
+     
       </header>
-    <footer>
-      <FooterComponent/>
-    </footer>
+     
 
       </div>
     </div>  );
